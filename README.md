@@ -1,6 +1,6 @@
 # Gemini CLI Calculator
 
-This is a simple calculator application created with the help of Gemini CLI.
+This project is a simple, yet elegant calculator built with fundamental web technologies: HTML for structure, CSS for styling, and JavaScript for functionality. It was developed with the assistance of the Gemini CLI, showcasing how AI can streamline the creation of practical web applications.
 
 ## Features
 
